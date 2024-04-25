@@ -1,0 +1,28 @@
+
+main {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+.blog-post {
+  margin-bottom: 40px;
+}
+
+.blog-post h1 {
+  color: #9D4EDD;
+}
+
+.blog-post .blog-image {
+  max-width: 100%;
+  height: auto;
+  margin: 20px auto; 
+  display: block; 
+  border-radius: 10px; 
+}
+
+.blog-post p {
+  font-size: 16px; 
+  line-height: 1.6; 
+  color: #333;
+}

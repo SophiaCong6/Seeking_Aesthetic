@@ -1,0 +1,22 @@
+.social-sharing {
+    text-align: left;
+    margin: 20px 0;
+}
+
+.social-sharing p {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.social-sharing img {
+    margin-right: 10px;
+    width: 40px;
+    height: 40px; 
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.social-sharing img:hover {
+    transform: scale(1.1);
+}
