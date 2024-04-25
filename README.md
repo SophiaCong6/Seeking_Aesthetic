@@ -1,1 +1,0 @@
-# Seeking_Aesthetic
